@@ -1,6 +1,9 @@
 # #team-cmi5-create-au
 ## Description
-The goal of this team is to create an app that can create a simple cmi5 package with 1 Assignable Unit (AU) that can be played in the newly launched cmi5 Player Prototype.
+The goal of this team is to create a simple cmi5 package with 1 Assignable Unit (AU) that can be played in the recently launched cmi5 Player that is part of the Project CATAPULT Conformance Test Suite.  
+
+We will try to do this using three 'off the shelf' solutions Storyline, Rise and Acrobat as well as a couple of homebrew approaches.
+
 
 ## Resources
 - [ADL cmi5 CATAPULT](https://adlnet.github.io/CATAPULT/)
