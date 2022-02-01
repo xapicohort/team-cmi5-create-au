@@ -9,4 +9,5 @@ We will try to do this using three 'off the shelf' solutions Storyline, Rise and
 - [ADL cmi5 CATAPULT](https://adlnet.github.io/CATAPULT/)
 - [cmi5 home](https://aicc.github.io/CMI-5_Spec_Current/)
 - [cmi5 spec](https://github.com/AICC/CMI-5_Spec_Current/blob/quartz/cmi5_spec.md)
-- [cmi5 Twitter](https://twitter.com/hashtag/cmi5)
+- [Twitter #cmi5](https://twitter.com/hashtag/cmi5)
+- [Twitter @CMI5Spec](https://twitter.com/CMI5Spec)
